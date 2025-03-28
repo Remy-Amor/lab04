@@ -75,3 +75,14 @@ aside:hover {
     display: none;
     visibility: hidden;
 }
+
+/* style for menu when hovered */
+nav a:hover {
+    background-color: lightblue;
+    border-color: darkblue;
+}
+
+/* style for h3 that says headings */
+#headings_h3 {
+    color: red;
+}
