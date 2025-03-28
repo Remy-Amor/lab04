@@ -73,7 +73,6 @@ h1 {
 /* Style for aside when hovered upon */
 aside:hover {
     display: none;
-    visibility: hidden;
 }
 
 /* style for menu when hovered */
